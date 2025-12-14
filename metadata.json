@@ -1,0 +1,8 @@
+{
+  "name": "Uzhavan Guide (உழவன் வழிகாட்டி)",
+  "description": "A comprehensive farming guide for Tamil farmers featuring vegetable cultivation steps and AI-powered agricultural assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
